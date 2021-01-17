@@ -28,15 +28,9 @@
 
 ### :desktop_computer: Computador
   
-|Desktop|Ultra Wide|
-|:---:|:---:|
-|<kbd><img src=".github/previews/desktop_preview.jpg" alt="Desktop"/></kbd>|<kbd><img src=".github/previews/ultraWide_preview.jpg" alt="Ultra Wide"/></kbd>|
-
-### :iphone: Responsividade
-
-|Tablet|Mobile|
-|:---:|:---:|
-|<kbd><img src=".github/previews/tablet_preview.jpg" alt="Tablet"/></kbd>|<kbd><img src=".github/previews/mobile_preview.jpg" alt="Mobile"/></kbd>
+|Desktop|
+|:---:|
+|<kbd><img src=".github/previews/desktop_demo.png" alt="Desktop"/></kbd>|
 
 </div>
   
