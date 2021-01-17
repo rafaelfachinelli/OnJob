@@ -36,6 +36,12 @@ const Sidebar: React.FC = () => {
         </li>
         <li className="list-item">
           <div className="item-image">
+            <img src={pointsIco} alt="Pontuação"/>
+          </div>
+          <Link to="/pontuacao">Pontuação</Link>
+        </li>
+        <li className="list-item">
+          <div className="item-image">
             <img src={rankingIco} alt="Ranking"/>
           </div>
           <Link to="/ranking">Ranking</Link>
