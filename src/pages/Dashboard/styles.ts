@@ -46,6 +46,10 @@ export const Content = styled.div`
     width: 100%;
   }
 
+  .content-myPoints {
+    margin-bottom: 1rem;
+  }
+
   .myPoints-title {
     margin-bottom: 1.5rem;
 
