@@ -60,7 +60,7 @@ Para executar esse projeto você precisa baixar este repositório, ter o Gerenci
 
 ### :desktop_computer: **WEB Responsivo**
 
-Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exemplo/) e execute os seguintes códigos:
+Abra o prompt de comando no diretório do projeto, abra a pasta do repositório e execute os seguintes códigos:
 
 <details>
   <summary><i>com <b>npm</b></i></summary>
