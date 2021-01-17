@@ -42,7 +42,7 @@ Plataforma web para estudantes e empresas.
 
 Para executar esse projeto você precisa baixar este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
-### :desktop_computer: **WEB Responsivo**
+### :desktop_computer: **WEB**
 
 Abra o prompt de comando no diretório do projeto, abra a pasta do repositório e execute os seguintes códigos:
 
