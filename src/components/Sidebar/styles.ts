@@ -7,9 +7,14 @@ export const Container = styled.aside`
   background: var(--color-primary);
 
   .sidebar-logo {
-    color: var(--color-text-light);
-    font-size: 3.6rem;
-    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem 0;
+  }
+
+  .sidebar-logo img {
+    width: 100px;
   }
 
   .user-avatar {
