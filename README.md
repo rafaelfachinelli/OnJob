@@ -3,12 +3,12 @@
 <p>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge">
-  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/OnJob?color=798BDE&style=for-the-badge">
+  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/rafaelfachinelli/OnJob?color=798BDE&style=for-the-badge">
   <a href="https://github.com/USUÁRIO">
-    <img alt="Desenvolvido por Equipe #113" src="https://img.shields.io/badge/Equipe-113-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Desenvolvido por Equipe #113" src="https://img.shields.io/badge/Equipe-113-%798BDE?color=798BDE&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/OnJob?color=798BDE&style=for-the-badge"/>
 <p>
 
 <p align="center">
