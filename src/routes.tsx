@@ -10,7 +10,7 @@ const Routes: React.FC = () => {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/dashboard" component={Dashboard} />
+        <Route path="/" component={Dashboard} exact/>
         <Route path="/ranking" component={Ranking} />
         <Route path="/pontuacao" component={Pontuation} />
       </Switch>
