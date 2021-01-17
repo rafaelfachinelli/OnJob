@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OnJob" src=".github/banner-pt.svg" width="250px"/>
+  <img alt="OnJob" src=".github/banner.png" width="250px"/>
 <p>
 
 <p align="center"> 
