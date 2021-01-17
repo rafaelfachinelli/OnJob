@@ -39,31 +39,31 @@ const Ranking: React.FC = () => {
               <img className="position-image" src={avatarImage} alt="Avatar"/>
               <p className="position-name">Luiza</p>
               <p className="position-local">São Paulo - SP</p>
-              <p className="position-XP">2.000 XP</p>
+              <p className="position-XP">2.050 XP</p>
             </div>
             <div className="position">
               <img className="position-image" src={avatarImage} alt="Avatar"/>
-              <p className="position-name">Luiza</p>
+              <p className="position-name">Laura</p>
               <p className="position-local">São Paulo - SP</p>
-              <p className="position-XP">2.000 XP</p>
+              <p className="position-XP">1.986 XP</p>
             </div>
             <div className="position">
               <img className="position-image" src={avatarImage} alt="Avatar"/>
-              <p className="position-name">Luiza</p>
+              <p className="position-name">Jennifer</p>
               <p className="position-local">São Paulo - SP</p>
-              <p className="position-XP">2.000 XP</p>
+              <p className="position-XP">1.850 XP</p>
             </div>
             <div className="position">
               <img className="position-image" src={avatarImage} alt="Avatar"/>
-              <p className="position-name">Luiza</p>
+              <p className="position-name">Ruby</p>
               <p className="position-local">São Paulo - SP</p>
-              <p className="position-XP">2.000 XP</p>
+              <p className="position-XP">1.340 XP</p>
             </div>
             <div className="position">
               <img className="position-image" src={avatarImage} alt="Avatar"/>
-              <p className="position-name">Luiza</p>
+              <p className="position-name">Mayra</p>
               <p className="position-local">São Paulo - SP</p>
-              <p className="position-XP">2.000 XP</p>
+              <p className="position-XP">1.099 XP</p>
             </div>
           </div>
         </div>
