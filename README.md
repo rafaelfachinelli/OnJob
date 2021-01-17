@@ -89,7 +89,7 @@ Abra o prompt de comando no diretório do projeto, abra a pasta [`exemplo/`](exe
 
 </details>
 
-> ⚠️ O servidor de desenvolvimento será iniciado na porta: NÚMERODAPORTA - Acesse <http://localhost:NÚMERODAPORTA>
+> ⚠️ O servidor de desenvolvimento será iniciado na porta: 3000 - Acesse <http://localhost:3000>
 
 ---
 ## :hammer_and_wrench: **Tecnologias**
@@ -98,14 +98,13 @@ As seguintes ferramentas foram utilizadas para desenvolver esse projeto:
 
 <div align="center">
 
-|:globe_with_meridians: Web|:file_cabinet: Servidor|
+|:globe_with_meridians: Web|
 |:---:|:---:|
-|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node](https://nodejs.org/en/)|
-|[CSS3](https://www.w3schools.com/css/)||
-|[TypeScript](https://www.typescriptlang.org)||
-|[React](https://reactjs.org)||
-|[Prettier](https://prettier.io)||
-|[EditorConfig](https://editorconfig.org)||
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|
+|[CSS3](https://www.w3schools.com/css/)|
+|[TypeScript](https://www.typescriptlang.org)|
+|[React](https://reactjs.org)|
+|[Styled Components](https://styled-components.com)|
 
 </div>
 
@@ -114,7 +113,7 @@ As seguintes ferramentas foram utilizadas para desenvolver esse projeto:
 
 <div align="center">
 
-Copyright © 2021 [NOME](https://github.com/USUÁRIO).<br />
+Copyright © 2021 [OnJob](https://github.com/rafaelfachinelli/OnJob).<br />
 Este projeto é licenciado por [MIT](./LICENSE).
 
 </div>
