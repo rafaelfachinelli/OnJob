@@ -30,7 +30,7 @@
   
 |Desktop|
 |:---:|
-|<kbd><img src=".github/previews/desktop_demo.png" alt="Desktop"/></kbd>|
+|<kbd><img src=".github/desktop_demo.png" alt="Desktop"/></kbd>|
 
 </div>
   
