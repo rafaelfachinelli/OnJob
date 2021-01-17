@@ -78,9 +78,9 @@ const Dashboard: React.FC = () => {
           <span className="recomendations-title">Recomendações</span>
             <div className="recomendations-background">
               <div className="recomendation">
-                <p className="recomendation-name">Word</p>
+                <p className="recomendation-name">Inglês</p>
                 <div className="recomendation-points">
-                  <p className="points-number">+7</p>
+                  <p className="points-number">+5</p>
                   <p className="points-legend">pontos</p>
                 </div>
                 <button className="recomendation-response">responder</button>
@@ -94,17 +94,17 @@ const Dashboard: React.FC = () => {
                 <button className="recomendation-response">responder</button>
               </div>
               <div className="recomendation">
-                <p className="recomendation-name">Word</p>
+                <p className="recomendation-name">Excel</p>
                 <div className="recomendation-points">
-                  <p className="points-number">+7</p>
+                  <p className="points-number">+5</p>
                   <p className="points-legend">pontos</p>
                 </div>
                 <button className="recomendation-response">responder</button>
               </div>
               <div className="recomendation">
-                <p className="recomendation-name">Word</p>
+                <p className="recomendation-name">CSS3</p>
                 <div className="recomendation-points">
-                  <p className="points-number">+7</p>
+                  <p className="points-number">+3</p>
                   <p className="points-legend">pontos</p>
                 </div>
                 <button className="recomendation-response">responder</button>
@@ -123,27 +123,27 @@ const Dashboard: React.FC = () => {
               <div className="student student--gold">
                 <img className="student-avatar" src={avatarImage}/>
                 <p className="student-name">Luiza</p>
-                <div className="student-XP">2.000 XP</div>
+                <div className="student-XP">2.050 XP</div>
               </div>
               <div className="student">
                 <img className="student-avatar" src={avatarImage}/>
-                <p className="student-name">Luiza</p>
-                <div className="student-XP">2.000 XP</div>
+                <p className="student-name">Laura</p>
+                <div className="student-XP">1.986 XP</div>
               </div>
               <div className="student">
                 <img className="student-avatar" src={avatarImage}/>
-                <p className="student-name">Luiza</p>
-                <div className="student-XP">2.000 XP</div>
+                <p className="student-name">Jennifer</p>
+                <div className="student-XP">1.850 XP</div>
               </div>
               <div className="student">
                 <img className="student-avatar" src={avatarImage}/>
-                <p className="student-name">Luiza</p>
-                <div className="student-XP">2.000 XP</div>
+                <p className="student-name">Ruby</p>
+                <div className="student-XP">1.340 XP</div>
               </div>
               <div className="student">
                 <img className="student-avatar" src={avatarImage}/>
-                <p className="student-name">Luiza</p>
-                <div className="student-XP">2.000 XP</div>
+                <p className="student-name">Mayra</p>
+                <div className="student-XP">1.099 XP</div>
               </div>
             </div>
           </div>
