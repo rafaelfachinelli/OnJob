@@ -14,7 +14,7 @@ const Dashboard: React.FC = () => {
       <Sidebar />
       <Content>
         <Notify />
-        <p className="content-welcome">Olá Eduardo!</p>
+        <p className="content-welcome">Olá Luiza!</p>
 
         <div className="content-header">
 
