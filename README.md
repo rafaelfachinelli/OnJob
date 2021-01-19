@@ -35,7 +35,9 @@
 ---
 ## :information_source: Sobre
 
-Plataforma web para estudantes e empresas.
+On Job - Plataforma gamificada para jovens de 16 à 20 anos, onde estes irão responder testes de conhecimento em diversas áreas e receber premiações (em dinheiro ou não) de acordo com seu nível de acertos e participação.
+
+Os resultados destes testes poderão ser vistos por empresas parceiras, que assim como os jovens terão um perfil de acesso na mesma plataforma. A empresa também terá acesso a um completo banco de dados onde poderão filtrar esses jovens por ordem de competências que estão buscando para preenchimento de alguma vaga em aberto.
 
 ---
 ## :arrow_forward: **Executar**
